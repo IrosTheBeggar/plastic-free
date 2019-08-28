@@ -2,6 +2,8 @@
 
 A US focussed list of plastic free products. I am open to suggestions on how to expand this to other countries.
 
+This list is very new and a work in progress.  Feel free to sumbit pull requests with your own suggestions.
+
 ## Why
 
 It's good for the environment and good for your health. Plastic containers are known to contaminate the products contained inside them when exposed to heat and light.  
@@ -25,6 +27,7 @@ It's good for the environment and good for your health. Plastic containers are k
 - Shaving
   - Safety Razor
   - Use soap instead of shaving cream
+ - Shampoo/Conditioner
 
 ## Food
 
@@ -34,8 +37,15 @@ It's good for the environment and good for your health. Plastic containers are k
   - [Glass Pour Over Coffee Maker](https://www.amazon.com/Chemex-Classic-Pour-over-Glass-Coffeemaker/dp/B000I1WP7W)
   - French Press Coffee Maker
   - Coffee In A Can
+  
+## Cleaning
+
+- Dish Detergent
+- Laundry Detergent
+- Household Cleaning Supplies
 
 ## Other
 
 - Lights
   - These LED Bulbs (https://www.amazon.com/dp/B06Y43F9PS)
+  
