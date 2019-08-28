@@ -1,4 +1,4 @@
-_Cleaning_
+## Cleaning
 
 - Bar Soap
 - [Silicon Soap Tray](https://www.amazon.com/Anwenk-Soap-Waterfall-Flexible-Cleaning-White/dp/B073F6FK9B)
@@ -6,7 +6,7 @@ _Cleaning_
 - Safety Razer
 - 
 
-_Food_
+## Food
 
 - Meats
   - Get meat from the butcher (paper wrapped) instead of pre-packaged
@@ -15,7 +15,7 @@ _Food_
   - French Press Coffee Maker
   - Coffee In A Can
 
-_Other_
+## Other
 
 - Lights
   - These LED Bulbs (https://www.amazon.com/dp/B06Y43F9PS)
