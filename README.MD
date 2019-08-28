@@ -1,12 +1,12 @@
 ## Awesome Plastic Free
 
-A US focussed list of plaric free products. I am open to suggestions on how to expand this to other countries.
+A US focussed list of plastic free products. I am open to suggestions on how to expand this to other countries.
 
 ## Why
 
-It's good for the enviroment and good for you health. Plastic containers are known to contaminate the products conatined inside it when exposed to heat and light.  
+It's good for the environment and good for you health. Plastic containers are known to contaminate the products contained inside it when exposed to heat and light.  
 
-## Alternaitve Materials
+## Alternative Materials
 
 - Glass
 - Paper
