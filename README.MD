@@ -4,9 +4,9 @@ A US focussed list of plastic free products. I am open to suggestions on how to 
 
 ## Why
 
-It's good for the environment and good for you health. Plastic containers are known to contaminate the products contained inside it when exposed to heat and light.  
+It's good for the environment and good for your health. Plastic containers are known to contaminate the products contained inside them when exposed to heat and light.  
 
-## Alternative Materials
+## Alternative Packaging Materials
 
 - Glass
 - Paper
