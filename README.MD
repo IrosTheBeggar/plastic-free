@@ -1,4 +1,4 @@
-## Awesome Plastic Free
+## Plastic Free
 
 A US focussed list of plastic free products. I am open to suggestions on how to expand this to other countries.
 
