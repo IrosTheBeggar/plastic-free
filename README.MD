@@ -21,7 +21,7 @@ It's good for the environment and good for you health. Plastic containers are kn
   - [Silicon Soap Tray](https://www.amazon.com/Anwenk-Soap-Waterfall-Flexible-Cleaning-White/dp/B073F6FK9B)
 - Teeth
   - [Bamboo Toothbrush](https://www.amazon.com/gp/product/B07HRXYYNF/)
-  - [Toothpaste](https://www.peacewiththewild.co.uk/product-category/bathroom/eco-friendly-toothpaste/)
+  - [Toothpaste](https://www.amazon.com/Georganics-Natural-Toothpaste-Peppermint-Remineralizing/dp/B019CWPUZ6)
 - Shaving
   - Safety Razor
   - Use soap instead of shaving cream
