@@ -1,0 +1,3 @@
+- [Bamboo Toothbrush](https://www.amazon.com/gp/product/B07HRXYYNF/)
+- [Toothpaste](https://www.amazon.com/Georganics-Natural-Toothpaste-Peppermint-Remineralizing/dp/B019CWPUZ6)
+- [Toothpaste](https://davids-usa.com/)
